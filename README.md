@@ -21,7 +21,7 @@ This web application is a demonstration of language switching functionality, all
 
    ```sh
    git clone <repository-url>
-   cd language-switch-webapp
+   cd languageSwitch
    ```
 
 2. **Install dependencies**:
